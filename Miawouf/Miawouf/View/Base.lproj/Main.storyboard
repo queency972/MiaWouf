@@ -235,7 +235,6 @@
                             <constraint firstItem="m2E-bN-MGn" firstAttribute="top" secondItem="KZm-A0-gga" secondAttribute="top" constant="20" id="49N-3H-wpL"/>
                             <constraint firstItem="qdB-rb-aQS" firstAttribute="leading" secondItem="KZm-A0-gga" secondAttribute="leading" constant="15" id="4l6-Ui-6fH"/>
                             <constraint firstItem="m2E-bN-MGn" firstAttribute="leading" secondItem="KZm-A0-gga" secondAttribute="leading" constant="20" id="5OM-Rc-bti"/>
-                            <constraint firstItem="ZkE-9e-4lT" firstAttribute="centerX" secondItem="kvu-yq-5vf" secondAttribute="centerX" id="AXu-Qu-vjl"/>
                             <constraint firstItem="KZm-A0-gga" firstAttribute="bottom" secondItem="qdB-rb-aQS" secondAttribute="bottom" constant="20" id="Gl2-Vw-SA7"/>
                             <constraint firstItem="KZm-A0-gga" firstAttribute="trailing" secondItem="ZkE-9e-4lT" secondAttribute="trailing" constant="15" id="OdA-go-gvs"/>
                             <constraint firstItem="KZm-A0-gga" firstAttribute="trailing" secondItem="qdB-rb-aQS" secondAttribute="trailing" constant="15" id="S4P-2o-uGT"/>
@@ -278,7 +277,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="UTC-Pl-2Xh">
-                                <rect key="frame" x="15" y="338.33333333333331" width="345" height="81.333333333333314"/>
+                                <rect key="frame" x="20" y="338.33333333333331" width="335" height="81.333333333333314"/>
                                 <string key="text">Wouf ! Vous avez bien été ajouté à notre base de donnée ! Nous vous enverrons un SMS dès que nous avons une âme soeur à vous proposer !</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
@@ -312,14 +311,12 @@
                         <color key="backgroundColor" red="0.81011226430000005" green="0.94152953969999997" blue="0.98328930140000004" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                         <constraints>
                             <constraint firstItem="8Tt-xz-gnU" firstAttribute="leading" secondItem="ONU-K7-LBN" secondAttribute="leading" constant="20" id="2vc-Gw-erA"/>
-                            <constraint firstAttribute="trailing" secondItem="UTC-Pl-2Xh" secondAttribute="trailing" constant="15" id="FSx-38-aQQ"/>
+                            <constraint firstAttribute="trailing" secondItem="UTC-Pl-2Xh" secondAttribute="trailing" constant="20" id="FSx-38-aQQ"/>
                             <constraint firstItem="ONU-K7-LBN" firstAttribute="trailing" secondItem="1ZK-HB-KnV" secondAttribute="trailing" constant="15" id="Jwj-3S-R9J"/>
-                            <constraint firstItem="1ZK-HB-KnV" firstAttribute="centerX" secondItem="mZ4-4S-uEP" secondAttribute="centerX" id="QEH-9R-vl2"/>
                             <constraint firstItem="1ZK-HB-KnV" firstAttribute="leading" secondItem="ONU-K7-LBN" secondAttribute="leading" constant="15" id="VJh-vV-dpd"/>
                             <constraint firstItem="UTC-Pl-2Xh" firstAttribute="centerY" secondItem="mZ4-4S-uEP" secondAttribute="centerY" id="YEm-2V-wAO"/>
-                            <constraint firstItem="UTC-Pl-2Xh" firstAttribute="leading" secondItem="mZ4-4S-uEP" secondAttribute="leading" constant="15" id="Yes-WH-GSe"/>
+                            <constraint firstItem="UTC-Pl-2Xh" firstAttribute="leading" secondItem="mZ4-4S-uEP" secondAttribute="leading" constant="20" id="Yes-WH-GSe"/>
                             <constraint firstItem="8Tt-xz-gnU" firstAttribute="top" secondItem="ONU-K7-LBN" secondAttribute="top" constant="20" id="kyw-fY-ntT"/>
-                            <constraint firstItem="UTC-Pl-2Xh" firstAttribute="centerX" secondItem="mZ4-4S-uEP" secondAttribute="centerX" id="qXp-0m-rZQ"/>
                             <constraint firstItem="ONU-K7-LBN" firstAttribute="bottom" secondItem="1ZK-HB-KnV" secondAttribute="bottom" constant="20" id="wDM-LR-nMW"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="ONU-K7-LBN"/>
