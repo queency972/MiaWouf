@@ -19,6 +19,7 @@
 		E9E2FD7423CFB7B200EB0F5B /* CatWelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9E2FD7323CFB7B200EB0F5B /* CatWelcomeViewController.swift */; };
 		E9E2FD7623CFEE4B00EB0F5B /* CatFormViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9E2FD7523CFEE4B00EB0F5B /* CatFormViewController.swift */; };
 		E9E2FD7823CFEE8C00EB0F5B /* CatSuccessViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9E2FD7723CFEE8C00EB0F5B /* CatSuccessViewController.swift */; };
+		E9E2FD7A23D0278100EB0F5B /* Pet.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9E2FD7923D0278100EB0F5B /* Pet.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		E9E2FD7323CFB7B200EB0F5B /* CatWelcomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatWelcomeViewController.swift; sourceTree = "<group>"; };
 		E9E2FD7523CFEE4B00EB0F5B /* CatFormViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatFormViewController.swift; sourceTree = "<group>"; };
 		E9E2FD7723CFEE8C00EB0F5B /* CatSuccessViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatSuccessViewController.swift; sourceTree = "<group>"; };
+		E9E2FD7923D0278100EB0F5B /* Pet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pet.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 			isa = PBXGroup;
 			children = (
 				E9E2FD6723CE600600EB0F5B /* Races.swift */,
+				E9E2FD7923D0278100EB0F5B /* Pet.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -193,6 +196,7 @@
 				E9E2FD7623CFEE4B00EB0F5B /* CatFormViewController.swift in Sources */,
 				E9E2FD6E23CE70F400EB0F5B /* WelcomeViewController.swift in Sources */,
 				E9E2FD5423CE5FBB00EB0F5B /* AppDelegate.swift in Sources */,
+				E9E2FD7A23D0278100EB0F5B /* Pet.swift in Sources */,
 				E9E2FD7023CE754F00EB0F5B /* FormViewController.swift in Sources */,
 				E9E2FD7423CFB7B200EB0F5B /* CatWelcomeViewController.swift in Sources */,
 				E9E2FD7223CFACDD00EB0F5B /* SuccessViewController.swift in Sources */,
